@@ -40,21 +40,6 @@ Hi, I'm a dedicated **Software Developer** with a knack for problem-solving and 
 
 ## 🚀 **Projects**
 
-### [1️⃣ AI ChatBot]
-**Description:**  
-Intelligent responses based on user input.
-Ability to handle greetings, farewells, jokes, and even motivational prompts! 💬
-**Tech Stack:** Python
-**Highlights:**  
--🔑 Features of the Chatbot:
-Predefined response rules with flexibility for customization 🛠️.
-Powered by logic, Python dictionaries, and a passion for learning!
-
-### [2️⃣ Hangman Game]
-**Description:** It is a word guessing game which consists of many words and the user or player have to guess the alphabet's in the word. If the player guess the word before man get hanged than he will won otherwise he will lose.
-**Tech Stack:** python 
-
-
 ## 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HariJha00&show_icons=true&theme=radical)  
